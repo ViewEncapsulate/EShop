@@ -56,3 +56,6 @@ D:\UdemyProject\E-Shop\EShop\API\skinet\API\obj\Debug\net6.0\refint\API.dll
 D:\UdemyProject\E-Shop\EShop\API\skinet\API\obj\Debug\net6.0\API.pdb
 D:\UdemyProject\E-Shop\EShop\API\skinet\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 D:\UdemyProject\E-Shop\EShop\API\skinet\API\obj\Debug\net6.0\ref\API.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\AutoMapper.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
