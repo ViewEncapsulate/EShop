@@ -8,10 +8,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SectionHeaderComponent implements OnInit {
 
-  constructor(private bcService: BreadcrumbService) { }
+  constructor(public bcService: BreadcrumbService) { }
 
   ngOnInit(): void {
-    // this.bcService.breadcrumbs$.
+    // this.bcService.breadcrumbs$.subscribe
   }
 
 }

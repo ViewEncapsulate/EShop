@@ -1,3 +1,4 @@
+import { LoadingInterceptor } from './core/interceptors/loading.interceptor';
 import { ErrorInterceptor } from './core/interceptors/error.interceptor';
 import { HomeModule } from './home/home.module';
 import { ShopModule } from './shop/shop.module';
@@ -24,7 +25,8 @@ import { AppComponent } from './app.component';
     HomeModule
   ],
   providers: [
-    {provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true}
+    {provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true},
+    {provide: HTTP_INTERCEPTORS, useClass: LoadingInterceptor, multi: true}
   ],
   bootstrap: [AppComponent]
 })
