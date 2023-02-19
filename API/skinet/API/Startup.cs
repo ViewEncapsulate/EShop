@@ -19,8 +19,7 @@ namespace API
         {
             services.AddAutoMapper(typeof(MappingProfiles));
             services.AddControllers();
-            services.AddDbContext<StoreContext>(x => x.UseSqlite(this.configuration.GetConnectionString("DefaultConenction")));
-            services.AddApplicationServices();
+            services.AddApplicationServices(configuration);
             services.AddSwaggerDocumentation();
             services.AddCors(opt => {
                 opt.AddPolicy("CorsPolicy", policy => {

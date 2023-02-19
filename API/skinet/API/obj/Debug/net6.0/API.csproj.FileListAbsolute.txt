@@ -59,3 +59,5 @@ D:\UdemyProject\E-Shop\EShop\API\skinet\API\obj\Debug\net6.0\ref\API.dll
 D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\AutoMapper.dll
 D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\StackExchange.Redis.dll
