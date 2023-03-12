@@ -9,7 +9,7 @@
       (click)="setShippingPrice(method)"
       >
       <label for="{{method.id}}" class="form-check-label ms-2 mb-3">
-        <strong>{{method.shortName}} - {{method.price | currency}}</strong>
+        <strong>{{method.shortName}} - {{method.price | currency:'INR'}}</strong>
         <br>
         <span class="label-description">{{method.description}}</span>
       </label>
@@ -21,7 +21,7 @@
   <button class="btn btn-outline-primary" cdkStepperPrevious>
     <i class="fa fa-angle-left"></i> Back to Address
   </button>
-  <button class="btn btn-primary" cdkStepperNext>
+  <button [disabled]="checkoutForm.get('deliveryForm')?.invalid" class="btn btn-primary" cdkStepperNext>
     <i class="fa fa-angle-right"></i> Go to Review
   </button>
 </div>

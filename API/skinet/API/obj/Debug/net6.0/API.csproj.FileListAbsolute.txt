@@ -72,3 +72,15 @@ D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\Microsoft.IdentityM
 D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\Stripe.net.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UdemyProject\E-Shop\EShop\API\skinet\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
