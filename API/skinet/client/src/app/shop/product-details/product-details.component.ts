@@ -52,7 +52,7 @@ export class ProductDetailsComponent implements OnInit {
   }
 
   decrementQuantity() {
-    this.quantity--;
+    if(this.quantity) this.quantity--;
   }
 
   updateBasket() {
