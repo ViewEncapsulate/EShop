@@ -17,7 +17,7 @@ namespace API.Extensions
         public static IServiceCollection AddIdentityServices(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext<AppIdentityDbContext>(opt => {
-                opt.UseSqlite(configuration.GetConnectionString("IdentityConnection"));
+                opt.UseNpgsql(configuration.GetConnectionString("IdentityConnection"));
             });
 
             services.AddIdentityCore<AppUser>(opt => {

@@ -11,18 +11,20 @@ namespace API.Extensions
     public static class AplicationServicesExtensions
     {
         public static  IServiceCollection AddApplicationServices(this IServiceCollection services, IConfiguration config)
-        {            
+        {          
             services.AddSingleton<IResponseCacheService, ResponseCacheService>();
+            services.AddDbContext<StoreContext>(x => {
+                x.UseNpgsql(config.GetConnectionString("DefaultConenction"));
+            });  
+            services.AddSingleton<IConnectionMultiplexer>(c => {
+                var options = ConfigurationOptions.Parse(config.GetConnectionString("Redis"));
+                return ConnectionMultiplexer.Connect(options);
+            });
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<IOrderService, OrderService>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<IPaymentService, PaymentService>();
             services.AddEndpointsApiExplorer();
-            services.AddSingleton<IConnectionMultiplexer>(c => {
-                var options = ConfigurationOptions.Parse(config.GetConnectionString("Redis"));
-                return ConnectionMultiplexer.Connect(options);
-            });
-            services.AddDbContext<StoreContext>(x => x.UseSqlite(config.GetConnectionString("DefaultConenction")));
             services.AddScoped<IBasketRepository, BasketRepository>();
             services.AddScoped<ITokenService, TokenService>();
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));

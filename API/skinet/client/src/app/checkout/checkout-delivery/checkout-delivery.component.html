@@ -8,7 +8,7 @@
       formControlName = "deliveryMethod"
       (click)="setShippingPrice(method)"
       >
-      <label for="{{method.id}}" class="form-check-label ms-2 mb-3">
+      <label for="{{method.id}}" class="form-check-label ms-4 mb-3">
         <strong>{{method.shortName}} - {{method.price | currency:'INR'}}</strong>
         <br>
         <span class="label-description">{{method.description}}</span>

@@ -1,3 +1,4 @@
+import { environment } from 'src/environments/environment';
 import { IProduct } from './../shared/models/product';
 import { ShopParams } from './../shared/models/shopParams';
 import { IBrand } from './../shared/models/brand';
@@ -12,7 +13,7 @@ import { of, pipe, Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class ShopService {
-  baseUrl = 'https://localhost:5001/api/';
+  baseUrl = environment.apiUrl;
   products: IProduct[] = [];
   brands: IBrand[] = [];
   types: IType[] = [];

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6UM//x/poOfFKFT/kWyHGjYiEWPY5YHsKxDu7/vUJ80=",
+  "Hash": "Hpn9ybRUC1iQLt9Zq+dIIcmTGkVt6xw2IbMGO1mfgsM=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\boot-ang1.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\187.0cba698d2fb65601.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-ang1.png",
+      "RelativePath": "187.0cba698d2fb65601.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,15 +31,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
+      "OriginalItemSpec": "wwwroot\\187.0cba698d2fb65601.js"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\boot-ang2.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\207.8274c07e429eb8a9.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-ang2.png",
+      "RelativePath": "207.8274c07e429eb8a9.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,15 +48,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
+      "OriginalItemSpec": "wwwroot\\207.8274c07e429eb8a9.js"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\boot-core1.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\3rdpartylicenses.txt",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-core1.png",
+      "RelativePath": "3rdpartylicenses.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
+      "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\boot-core2.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\481.5d91539c9931dc3b.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-core2.png",
+      "RelativePath": "481.5d91539c9931dc3b.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
+      "OriginalItemSpec": "wwwroot\\481.5d91539c9931dc3b.js"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\boot-redis1.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\776.25f382d9e029de37.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-redis1.png",
+      "RelativePath": "776.25f382d9e029de37.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
+      "OriginalItemSpec": "wwwroot\\776.25f382d9e029de37.js"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\glove-code1.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\920.f8995dbbe1667ca2.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-code1.png",
+      "RelativePath": "920.f8995dbbe1667ca2.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
+      "OriginalItemSpec": "wwwroot\\920.f8995dbbe1667ca2.js"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\glove-code2.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\assets\\images\\hero1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-code2.png",
+      "RelativePath": "assets/images/hero1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\hero1.jpg"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\glove-react1.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\assets\\images\\hero2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-react1.png",
+      "RelativePath": "assets/images/hero2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\hero2.jpg"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\glove-react2.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\assets\\images\\hero3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-react2.png",
+      "RelativePath": "assets/images/hero3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\hero3.jpg"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\hat-core1.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\assets\\images\\logo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-core1.png",
+      "RelativePath": "assets/images/logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\assets\\images\\placeholder.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-react1.png",
+      "RelativePath": "assets/images/placeholder.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\placeholder.png"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\hat-react2.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\common.62fd0195878ebcf3.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-react2.png",
+      "RelativePath": "common.62fd0195878ebcf3.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
+      "OriginalItemSpec": "wwwroot\\common.62fd0195878ebcf3.js"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\sb-ang1.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\favicon.ico",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ang1.png",
+      "RelativePath": "favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\sb-ang2.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ang2.png",
+      "RelativePath": "fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\sb-core1.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-core1.png",
+      "RelativePath": "fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\sb-core2.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-core2.png",
+      "RelativePath": "fontawesome-webfont.cf011583fb81df9f.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\sb-react1.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-react1.png",
+      "RelativePath": "fontawesome-webfont.da909aa098b0ee2d.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\images\\products\\sb-ts1.png",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ts1.png",
+      "RelativePath": "fontawesome-webfont.e9955780856cf8aa.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,7 +320,92 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ts1.png"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2"
+    },
+    {
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\index.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\main.6b89755ac69476fa.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "main.6b89755ac69476fa.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.6b89755ac69476fa.js"
+    },
+    {
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\polyfills.a143a96fc305a114.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "polyfills.a143a96fc305a114.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\polyfills.a143a96fc305a114.js"
+    },
+    {
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\runtime.ca0adb5eeb7dbaa3.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "runtime.ca0adb5eeb7dbaa3.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\runtime.ca0adb5eeb7dbaa3.js"
+    },
+    {
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\styles.a0376e6a2914308d.css",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "styles.a0376e6a2914308d.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.a0376e6a2914308d.css"
     }
   ]
 }
