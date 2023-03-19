@@ -12,6 +12,7 @@ const routes: Routes = [
   {path: 'server-error', component: ServerErrorComponent, data: {breadcrumb: 'Server Error'}},
   {path: 'not-found', component: NotFoundComponent, data: {breadcrumb: 'Not Found'}},
   {path: 'shop', loadChildren: () => import('./shop/shop.module').then(mod => mod.ShopModule), data: {breadcrumb: 'Shop'}},
+  {path: 'tictactoe', loadChildren: () => import('./tic-tac-toe/tic-tac-toe.module').then(mod => mod.TicTacToeModule), data: {breadcrumb: 'TicTacToe'}},
   {path: 'basket', loadChildren: () => import('./basket/basket.module').then(mod => mod.BasketModule), data: {breadcrumb: 'Basket'}},
   {
     path: 'checkout',
