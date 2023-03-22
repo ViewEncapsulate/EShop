@@ -14,7 +14,7 @@ namespace API.Extensions
         {          
             services.AddSingleton<IResponseCacheService, ResponseCacheService>();
             services.AddDbContext<StoreContext>(x => {
-                x.UseNpgsql(config.GetConnectionString("DefaultConenction"));
+                x.UseNpgsql(config.GetConnectionString("DefaultConnection"));
             });  
             services.AddSingleton<IConnectionMultiplexer>(c => {
                 var options = ConfigurationOptions.Parse(config.GetConnectionString("Redis"));
