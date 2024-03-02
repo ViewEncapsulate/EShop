@@ -768,8 +768,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vikrant\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\vikra\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -777,21 +776,16 @@
       "projectUniqueName": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\Core\\Core.csproj",
       "projectName": "Core",
       "projectPath": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\Vikrant\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\vikra\\.nuget\\packages\\",
       "outputPath": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\Core\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Vikrant\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\vikra\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -831,7 +825,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

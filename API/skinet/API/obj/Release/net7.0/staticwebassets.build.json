@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l5wBkeqxglducQ+epezTqp0HIOui2tkVwiIcWOcATR4=",
+  "Hash": "NFhfmLa3BF5S0DEj9ANM6mRwTR3qdcd9kgghz19lghE=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -66,23 +66,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
-    },
-    {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\441.fb4a3f099f7d7c9d.js",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "441.fb4a3f099f7d7c9d.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\441.fb4a3f099f7d7c9d.js"
     },
     {
       "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\481.5d91539c9931dc3b.js",
@@ -357,12 +340,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\main.c1520318c5237ae4.js",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\main.5e93bfb586665608.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main.c1520318c5237ae4.js",
+      "RelativePath": "main.5e93bfb586665608.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,7 +354,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.c1520318c5237ae4.js"
+      "OriginalItemSpec": "wwwroot\\main.5e93bfb586665608.js"
     },
     {
       "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\polyfills.a143a96fc305a114.js",
@@ -391,12 +374,12 @@
       "OriginalItemSpec": "wwwroot\\polyfills.a143a96fc305a114.js"
     },
     {
-      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\runtime.4b47e7e4f6555c79.js",
+      "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\runtime.ab4b1d2146d787ed.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "runtime.4b47e7e4f6555c79.js",
+      "RelativePath": "runtime.ab4b1d2146d787ed.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,7 +388,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\runtime.4b47e7e4f6555c79.js"
+      "OriginalItemSpec": "wwwroot\\runtime.ab4b1d2146d787ed.js"
     },
     {
       "Identity": "D:\\UdemyProject\\E-Shop\\EShop\\API\\skinet\\API\\wwwroot\\styles.f3f4afedb7731f7c.css",

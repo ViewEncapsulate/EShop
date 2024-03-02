@@ -1,3 +1,4 @@
+
 {
     "deploy.reloaded": {
         "packages": [
@@ -17,7 +18,7 @@
                 "name": "Linux",
                 "description": "SFTP folder",
 
-                "host": "165.22.220.213", "port": 22,
+                "host": "64.227.149.187", "port": 22,
                 "user": "root", "password": "Cre@TiveM1nd",
 
                 "dir": "/var/skinet",
